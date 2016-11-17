@@ -6,8 +6,6 @@
   - lbule for RN2 dev
 
 
-
-
-CM13.0 device tree Xiaomi Redmi Note 3 (HENNESSY):
+### CM13.0 device tree Xiaomi Redmi Note 3 (HENNESSY):
 
 https://github.com/sicmosh/cm13.0_device_tree_hennessy
