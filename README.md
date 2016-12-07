@@ -7,3 +7,4 @@
 ### CM13.0 vendor for Xiaomi Redmi Note 3 (HENNESSY):
 
 https://github.com/sicmosh/cm13.0_device_tree_hennessy
+
